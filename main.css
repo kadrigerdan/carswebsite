@@ -93,12 +93,12 @@ h1{
 }
 
 .cards {
-  max-width:50rem;
+  max-width:80rem;
   margin:auto;
 } 
 
 .card{
-  width: 20rem;
+  width: 43%;
   height: 23rem;
   display: inline-block;
   background-position: center;
@@ -151,9 +151,6 @@ h1{
 }
 
 
-
-
-
 @media (max-width:768px){
   .container{
    
@@ -168,8 +165,7 @@ h1{
   }
   
   .card{
-    width: 30rem;
-    height: 23rem;
+    width: 100%;
   }
 }
 
